@@ -12,7 +12,7 @@
 * [git](https://git-scm.com/)
 * Ability to use terminal
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/flmorse/itsmeflmorse/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/flmorse/itsmeflmorse)
 
 ### Steps
 
